@@ -6,3 +6,4 @@ client = commands.Bot(commands_prefix = '!')
 @client.event
 async def on_ready():
 
+dfl
